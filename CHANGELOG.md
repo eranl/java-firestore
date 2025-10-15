@@ -1,5 +1,29 @@
 # Changelog
 
+## [3.33.2](https://github.com/googleapis/java-firestore/compare/v3.33.1...v3.33.2) (2025-10-07)
+
+
+### Bug Fixes
+
+* **deps:** Update the Java code generator (gapic-generator-java) to 2.62.3 ([75901e3](https://github.com/googleapis/java-firestore/commit/75901e35b05cfccf38ccf96cddcf4081d7c9566d))
+
+
+### Dependencies
+
+* Update dependency com.google.cloud:sdk-platform-java-config to v3.52.3 ([#2243](https://github.com/googleapis/java-firestore/issues/2243)) ([dfe553a](https://github.com/googleapis/java-firestore/commit/dfe553a6b106f8e80f62b39cb999af03651a41ff))
+
+## [3.33.1](https://github.com/googleapis/java-firestore/compare/v3.33.0...v3.33.1) (2025-09-24)
+
+
+### Bug Fixes
+
+* **deps:** Update the Java code generator (gapic-generator-java) to 2.62.2 ([3460038](https://github.com/googleapis/java-firestore/commit/3460038d48eb3a96eb10c30aad7d814c56bd8140))
+
+
+### Dependencies
+
+* Update dependency com.google.cloud:sdk-platform-java-config to v3.52.2 ([#2235](https://github.com/googleapis/java-firestore/issues/2235)) ([f1354dc](https://github.com/googleapis/java-firestore/commit/f1354dc35ac6dc10bdb3b3e3b6ec6eb9379cdaa8))
+
 ## [3.33.0](https://github.com/googleapis/java-firestore/compare/v3.32.2...v3.33.0) (2025-09-11)
 
 
